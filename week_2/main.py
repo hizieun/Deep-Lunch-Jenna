@@ -14,10 +14,7 @@ def first_qna():
     plus_list = []
     result = []
     for i,item in enumerate(n_list):
-        if item > 0 :
-            plus_list.append(item)
-        else :
-            minus_list.append(item)
+        plus_list.append(item) if item > 0 else minus_list.append(item)
     result.append(minus_list)
     result.append(plus_list)
     result = sum(result, [])
@@ -27,7 +24,6 @@ def first_qna():
 def second_qna():
     name_str = "이유덕,이재영,권종표,이재영,박민호,강상희,이재영,김지완,최승혁,이성연,박영서,박민호,전경헌,송정환,김재성,이유덕,전경헌"
     name_list = name_str.split(",")
-    # name_list = ["이유덕", "이재영", "권종표", "이재영", "박민호", "강상희", "이재영", "김지완", "최승혁", "이성연", "박영서", "박민호", "전경헌", "송정환", "김재성", "이유덕", "전경헌"]
     # (1) 김씨와 이씨는 각각 몇 명?
     kim_list = [x for x in name_list if "김" in x]
     lee_list = [x for x in name_list if "이" in x]
