@@ -9,3 +9,6 @@
 
 2주차.
 - 배열 및 문자열 문제
+
+3주차.
+- Google Teachable Machine 실습(손글씨 숫자 인식)
