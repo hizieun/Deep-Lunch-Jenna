@@ -23,3 +23,7 @@
 5주차.
 
 - Google MediaPipe API 실습(FaceMesh)
+
+6주차.
+
+- 딥러닝 프레임워크 조사(Caffe & fast.ai)
