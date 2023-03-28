@@ -26,4 +26,4 @@
 
 6주차.
 
-- 딥러닝 프레임워크 조사(Caffe & fast.ai)
+- 딥러닝 프레임워크 조사(Caffe & fast.ai & Pycaret)
