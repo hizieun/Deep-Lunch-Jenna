@@ -3,7 +3,7 @@
 **딥러닝 스터디 실습 관련 소스입니다.
 파이썬 언어를 통한 딥러닝 모델 개발을 진행합니다.**
 
-<div style="display: flex; align-items: flex-start;  justify-content: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></div>
+<div style="display: flex; align-items: flex-start;  justify-content: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" justify-content="center"/></div>
 
 ## ✅ 1st Week.
 
